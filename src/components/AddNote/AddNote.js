@@ -38,7 +38,6 @@ export const AddNote = ({handleAddNote, handleWarning}) => {
             />
             <TextArea
                 className='form-div'
-                style={{width:{md:"20rem"}}}
                 rows={5} 
                 placeholder='Description' 
                 value={descp} 
