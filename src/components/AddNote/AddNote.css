@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+.my-form{
+        margin: 1rem;
+        padding: 0.8rem;
+        display: grid;
+        direction: row;
+        justify-content: center;
+        /* width: 100%; */
+}
+.form-div{
+    display: flex;
+}
+
+@media only screen and (min-width: 700px){
+    .form-div{
+        padding: 0.5rem;
+        width: 15rem;
+    }
+}
+@media only screen and (min-width: 960px){
+    .form-div{
+        padding: 1rem;
+        width: 20rem;
+    }
+}
