@@ -1,7 +1,7 @@
 {
+  "homepage": "https://github.com/Khushi-Shukla/note-app",
   "name": "note-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/Khushi-Shukla/note-app",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
