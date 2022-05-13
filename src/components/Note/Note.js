@@ -33,7 +33,7 @@ const Note = ({
             setWarning('');
         }
         else{
-            setWarning('Description cannot be empty');
+            setWarning('Cannot be empty!');
         }
     }
 
