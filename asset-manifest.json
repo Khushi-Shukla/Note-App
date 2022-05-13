@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Khushi-Shukla/note-app/static/css/main.d4b4dd00.css",
-    "main.js": "/Khushi-Shukla/note-app/static/js/main.822037b7.js",
-    "static/js/787.2e9082b0.chunk.js": "/Khushi-Shukla/note-app/static/js/787.2e9082b0.chunk.js",
-    "index.html": "/Khushi-Shukla/note-app/index.html",
-    "main.d4b4dd00.css.map": "/Khushi-Shukla/note-app/static/css/main.d4b4dd00.css.map",
-    "main.822037b7.js.map": "/Khushi-Shukla/note-app/static/js/main.822037b7.js.map",
-    "787.2e9082b0.chunk.js.map": "/Khushi-Shukla/note-app/static/js/787.2e9082b0.chunk.js.map"
+    "main.css": "/note-app/static/css/main.d4b4dd00.css",
+    "main.js": "/note-app/static/js/main.ca99aa17.js",
+    "static/js/787.2e9082b0.chunk.js": "/note-app/static/js/787.2e9082b0.chunk.js",
+    "index.html": "/note-app/index.html",
+    "main.d4b4dd00.css.map": "/note-app/static/css/main.d4b4dd00.css.map",
+    "main.ca99aa17.js.map": "/note-app/static/js/main.ca99aa17.js.map",
+    "787.2e9082b0.chunk.js.map": "/note-app/static/js/787.2e9082b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4b4dd00.css",
-    "static/js/main.822037b7.js"
+    "static/js/main.ca99aa17.js"
   ]
 }
